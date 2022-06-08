@@ -1,0 +1,8 @@
+title: Paradigmas de programación
+description: Paradigmas de programación UNAL
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
